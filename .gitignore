@@ -1,0 +1,12 @@
+# Local configuration files
+
+# Results
+data/lunchbox.db
+
+# Python cache
+__pycache__/
+cli/__pycache__/
+core/__pycache__/
+data/__pycache__/
+db/__pycache__/
+models/__pycache__/

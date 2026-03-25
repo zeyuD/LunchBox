@@ -58,7 +58,7 @@ python main.py list --food-type noodles --max-price 20
 python main.py rate 2 7.5
 
 # Manage members
-python main.py members --add "Charles" --email char@lab.com
+python main.py members --add "Charles" --memid char@lab.com
 python main.py members
 ```
 
