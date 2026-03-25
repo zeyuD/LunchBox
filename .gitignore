@@ -1,4 +1,5 @@
 # Local configuration files
+.DS_Store
 
 # Results
 data/lunchbox.db
