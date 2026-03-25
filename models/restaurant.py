@@ -21,7 +21,7 @@ class Restaurant:
     address:        str             = ""
 
     # Logistics
-    distance_mile:    float           = 0.0   # from office / base location
+    distance_mile:  float           = 0.0   # from office / base location
     food_type:      str             = ""    # e.g. "fast food", "noodles", "sushi"
     avg_price:      float           = 0.0   # average spend per person ($)
     avg_waiting_min:float           = 0.0   # estimated wait before seated / served

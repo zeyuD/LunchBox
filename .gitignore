@@ -2,7 +2,6 @@
 .DS_Store
 
 # Results
-data/lunchbox.db
 
 # Python cache
 __pycache__/
